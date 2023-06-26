@@ -2,6 +2,7 @@
 <img 
    src="https://github-readme-stats.vercel.app/api?username=MUKESHRAJMAHENDRAN&show_icons=true&theme=solarized-light" 
 />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHRAJMAHENDRAN&layout=compact)
 <!--
 **MUKESHRAJMAHENDRAN/MUKESHRAJMAHENDRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
