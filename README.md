@@ -28,4 +28,4 @@ I'm a self-taught passionate data scientist from India 🇮🇳
 
 | <a href="https://github.com/MUKESHRAJMAHENDRAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MUKESHRAJMAHENDRAN&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mukesh's github stats" /></a> | <a href="https://github.com/MUKESHRAJMAHENDRAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHRAJMAHENDRAN&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<p align="left"> <a href="https://twitter.com/@mukeshmahendran" target="blank"><img src="https://img.shields.io/twitter/follow/@mukeshmahendran?logo=twitter&style=for-the-badge" alt="@mukeshmahendran" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mukeshmahendran" target="blank"><img src="https://img.shields.io/twitter/follow/mukeshmahendran?logo=twitter&style=for-the-badge" alt="@mukeshmahendran" /></a> </p>
