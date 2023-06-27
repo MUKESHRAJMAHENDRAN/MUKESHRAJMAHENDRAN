@@ -11,8 +11,15 @@ I'm a self-taught passionate data scientist from India 🇮🇳
 
 - ❤️ I love writing code, learn new things and implementing it.
 
+- I am currently [kaggle notebook expert](https://www.kaggle.com/mukeshrajm) trying to improve my skill with the kaggle community. 
+
 - 💬 Ask me about anything [here](https://github.com/MUKESHRAJMAHENDRAN/MUKESHRAJMAHENDRAN/issues)
 
+- Love to contribute to Open Sorce, but in Initial Struggle of contribution once it done will explain the path of getting there.
+
+-  Currently building my own website with quarto. This site is for person like me who lost in abundance of knowlege in the internet for learning data science.
+
+**Language and tools**
 </p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
