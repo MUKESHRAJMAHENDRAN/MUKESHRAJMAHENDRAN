@@ -6,10 +6,15 @@ I'm a self-taught passionate data scientist from India 🇮🇳
 **About me**
 
 - 💼 Data Scientist at [Cubera](https://cubera.co/)
+ 
 - 📝  Write a [blog](https://datasherlock.blogspot.com/) about  ``` topics = [ "Python", "Data Exploration", "Data visualization", "Feature Engineering", "Machine learning", Deep learning] ```
-- I am currently [kaggle notebook expert](https://www.kaggle.com/mukeshrajm) trying to improve my skill with the kaggle community. 
+  
+- I am currently [kaggle notebook expert](https://www.kaggle.com/mukeshrajm) trying to improve my skill with the kaggle community.
+  
 - 💬 Ask me about anything [here](https://github.com/MUKESHRAJMAHENDRAN/MUKESHRAJMAHENDRAN/issues)
+  
 -  ❤️ I love writing code, learn new things and implementing it. Love to contribute to Open Sorce, but in Initial Struggle of contribution once it done will explain the path of getting there.
+  
 -  Currently building my own website with quarto. This site is for person like me who lost in abundance of knowlege in the internet for learning data science.
 
 **Language and tools**
