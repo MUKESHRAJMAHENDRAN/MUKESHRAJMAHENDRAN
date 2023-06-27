@@ -1,19 +1,22 @@
-### Hi there, 👋 I am Mukesh great to see you here...
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=MUKESHRAJMAHENDRAN&show_icons=true&theme=solarized-light" 
-/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHRAJMAHENDRAN&layout=compact)
-<!--
-**MUKESHRAJMAHENDRAN/MUKESHRAJMAHENDRAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### "Hello, I'm Mukesh. I Play with data!" 
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self-taught passionate data scientist from India 🇮🇳
+
+**About me**
+
+- 💼 Data Scientist at [Cubera](https://cubera.co/)
+
+- 
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/MUKESHRAJMAHENDRAN/MUKESHRAJMAHENDRAN/issues)
+
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+
+| <a href="https://github.com/MUKESHRAJMAHENDRAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MUKESHRAJMAHENDRAN&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mukesh's github stats" /></a> | <a href="https://github.com/MUKESHRAJMAHENDRAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKESHRAJMAHENDRAN&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
