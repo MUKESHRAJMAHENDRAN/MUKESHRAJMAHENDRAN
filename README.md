@@ -11,7 +11,7 @@ I'm a self-taught passionate data scientist from India 🇮🇳
   
 - I am currently [kaggle notebook expert](https://www.kaggle.com/mukeshrajm) trying to improve my skill with the kaggle community.
   
-- 💬 Ask me about anything [here](https://github.com/MUKESHRAJMAHENDRAN/MUKESHRAJMAHENDRAN/issues)
+- 💬 Ask me about anything [here](https://github.com/MUKESHRAJMAHENDRAN/MUKESHRAJMAHENDRAN/issues).
   
 -  ❤️ I love writing code, learn new things and implementing it. Love to contribute to Open Sorce, but in Initial Struggle of contribution once it done will explain the path of getting there.
   
