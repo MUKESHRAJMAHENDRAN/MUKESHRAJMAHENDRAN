@@ -5,7 +5,7 @@ I'm a self-taught passionate data scientist from India 🇮🇳
 
 **About me**
 
-- 💼 Ex Data Scientist at [Cubera](https://cubera.co/). Currently AI Engineer at [Visionet](https://www.visionet.com/)
+- 💼 Ex Data Scientist at [Cubera](https://cubera.co/), [Visionet](https://www.visionet.com/) .Currently AI Engineer at [Sena](https://sena.services/)
  
 - 📝  Write a [blog](https://datasherlock.blogspot.com/) about  ``` topics = [ "Python", "Data Exploration", "Data visualization", "Feature Engineering", "Machine learning", Deep learning] ```
   
